@@ -67,12 +67,6 @@ OutdoorXplorer enhances the way outdoor enthusiasts document and revisit their j
 
 ---
 
-## 📸 Screenshots *(Optional)*
-
-_Add screenshots or GIFs here to showcase the UI and features._
-
----
-
 ## 🚀 Future Enhancements *(Optional)*
 
 - Social sharing and public adventure feeds  
